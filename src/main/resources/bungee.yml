@@ -1,0 +1,4 @@
+name: counter-api
+version: ${project.version}
+author: gameszaum
+main: com.gameszaum.counter.Main
